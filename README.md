@@ -13,7 +13,7 @@ After, that the password will be generated with all the information mentioned ab
 
 ## Image of Password Generator
 
-<img src="untitled.png" alt="Password Generator Image">
+<img src="Untitled.png" alt="Password Generator Image">
 
 ---
 © 2021 Pilar Buchen. Confidential and Proprietary. All Rights Reserved.
